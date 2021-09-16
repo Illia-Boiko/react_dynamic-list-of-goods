@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEA,KACE,WACkB,CACnB,YADC,iBAIkB,CACnB,QAGC,kBAAmB","file":"main.21ef2453.chunk.css","sourcesContent":["@import 'bulma/css/bulma.css';\n\n.App {\n  margin: 30px;\n  text-align: center;\n}\n\n.title {\n  text-align: center;\n}\n\n.button {\n  margin-bottom: 15px;\n}\n"]}
